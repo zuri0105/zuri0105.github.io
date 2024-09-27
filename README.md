@@ -9,7 +9,7 @@
 # Education
 * studies Hospitality Industry Management- Payap University, Chiang Mai, Thailand
 * studies Psychology          - University of East Yangon, Myanmar
-* Gradurated High School       -No(3) B.E.H.S, San Chaung, Yangon,Myanmar 
+* Graduated High School       -No(3) B.E.H.S, San Chaung, Yangon,Myanmar 
  
 # Experience
 * Accountant assistant, High School, MJY
