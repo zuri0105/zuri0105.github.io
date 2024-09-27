@@ -1,5 +1,5 @@
 
-<img src="![image](https://github.com/user-attachments/assets/af2211f0-614e-40cd-a746-f168b3e4616f)" align="top-right" width="25%"/>
+<img src="[image](https://github.com/user-attachments/assets/af2211f0-614e-40cd-a746-f168b3e4616f)" align="top-right" width="25%"/>
  
 # zuri
 > _2nd year student_<br />
