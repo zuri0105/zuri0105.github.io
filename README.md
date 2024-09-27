@@ -1,5 +1,5 @@
 
-<img src="(https://github.com/user-attachments/assets/af2211f0-614e-40cd-a746-f168b3e4616f)" align="top-right" width="25%"/>
+<img src="https://github.com/user-attachments/assets/af2211f0-614e-40cd-a746-f168b3e4616f" align="top-right" width="25%"/>
  
 # zuri
 > _2nd year student_<br />
@@ -9,7 +9,7 @@
 # Education
 * studies Hospitality Industry Management- Payap University, Chiang Mai, Thailand
 * studies Psychology          - University of East Yangon, Myanmar
-* Gradurate High School       -No(3) B.E.H.S, San Chaung, Yangon,Myanmar 
+* Gradurated High School       -No(3) B.E.H.S, San Chaung, Yangon,Myanmar 
  
 # Experience
 * Accountant assistant, High School, MJY
