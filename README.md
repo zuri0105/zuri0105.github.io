@@ -1,7 +1,7 @@
 
 <img src="https://github.com/user-attachments/assets/af2211f0-614e-40cd-a746-f168b3e4616f" align="top-right" width="25%"/>
  
-# zuri
+# -zuri-01
 > _2nd year student_<br />
 > Payap University, Department of HIM<br />
 >  Chiang Mai, Thailand<br />
